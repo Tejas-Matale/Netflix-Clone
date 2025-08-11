@@ -62,3 +62,7 @@ npm run start        # Start production server
 npm run lint         # Run ESLint
 npm run db:generate  # Generate Prisma client
 ```
+
+output
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/232bf9c3-f830-41f1-8c36-797d27dbebf7" />
+<img width="1901" height="864" alt="image" src="https://github.com/user-attachments/assets/701f7842-ea8e-4fc8-8f5e-dcdf9dd84c4e" />
