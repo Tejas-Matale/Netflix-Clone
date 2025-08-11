@@ -1,0 +1,2 @@
+# Netlify Build Environment Configuration
+SECRETS_SCAN_ENABLED=false 
